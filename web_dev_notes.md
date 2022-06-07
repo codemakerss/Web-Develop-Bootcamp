@@ -10,3 +10,5 @@
 5.css syntax: selector{property:value;}
 
 6.css class: exmaple: img{class="name"}
+
+7.![some useful git trick](git_trick.png)
