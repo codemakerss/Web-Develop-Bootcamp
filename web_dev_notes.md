@@ -12,3 +12,5 @@
 6.css class: exmaple: img{class="name"}
 
 7.useful git trick![some useful git trick](git_trick.png)
+
+8.find fonts at Google Fonts.
