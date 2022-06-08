@@ -1,24 +1,70 @@
 body {
   margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 h1 {
-  margin-top: 0;
+  /* margin-top: 0; */
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
 }
 
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.my-photo{
+  width: 200px;
+  height: 240px;
+}
 .top-container {
   background-color: #E4F9F5;
-
+  position: relative;
+  padding-top: 100px;
 }
 
-.middle-container {
-  background-color: red;
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+/* .my-name{
+  position: relative;
+  top: 20px;
+} */
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skills-pic{
   width: 200px;
-  height: 200px;
+  height: 240px;
+}
+.it-pic{
+  width: 350px;
+  height: 240px;
+}
+.middle-container {
+  /* background-color: red;
+  width: 200px;
+  height: 200px; */
 }
 
 .bottom-container {
-  background-color: blue;
+  /* background-color: blue;
   width: 200px;
-  height: 200px;
+  height: 200px; */
+}
+
+.pro {
+  text-decoration: underline;
 }
