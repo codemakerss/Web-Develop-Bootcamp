@@ -14,3 +14,8 @@
 7.useful git trick![some useful git trick](git_trick.png)
 
 8.find fonts at Google Fonts.
+
+9.find free icons from : [flaticom](https://flaticons.net/free-icons)
+  find free animated image : [GIPHY](https://giphy.com/)
+  find free image from : [Free Image!](https://pixabay.com/)
+  find css button : [Configure Button](https://css3buttongenerator.com/)
