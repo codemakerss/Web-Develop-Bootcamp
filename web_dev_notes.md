@@ -19,3 +19,6 @@
   find free animated image : [GIPHY](https://giphy.com/)
   find free image from : [Free Image!](https://pixabay.com/)
   find css button : [Configure Button](https://css3buttongenerator.com/)
+  User Interface Design patterns: [UI](https://ui-patterns.com/)
+  Design Inspiration: [UI-UI](https://dribbble.com/tags/ui)
+  Design On Papers(build from scratch): [sneakpeekit](https://sneakpeekit.com/)
