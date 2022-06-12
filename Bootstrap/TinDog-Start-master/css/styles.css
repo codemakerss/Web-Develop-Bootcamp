@@ -1,0 +1,15 @@
+/* <link href="https://fonts.googleapis.com/
+css2?family=Merriweather+Sans&family=Montserrat:
+wght@100;400;900&family=Sacramento&display=swap" rel="stylesheet">
+h1 {  font-family: 'Montserrat, sans-serif';  font-size: 3rem;  line-height: 1.5;  font-weight: 900;} */
+#title{
+  background-color: #ff4c68;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
